@@ -22,9 +22,17 @@ font-size:23px;
 font-family: Helvetica;}
 #bottom{
   background-color: dimgray;
-  text-align: center;
+  text-align: left;
   color: white;
   font-size:11px;
   font-family: Helvetica;
   font-weight: bold;
 }
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 8px;
+  overflow: hidden;
+  background-color: dimgray;
+}
+li{float:left;}
