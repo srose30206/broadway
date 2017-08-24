@@ -2,9 +2,12 @@
 
 
 #opening{background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+background-repeat: no-repeat;
+background-size: cover;
+
 text-align: center;
 color: white;
-font-size:40px;
+font-size:70px;
 font-family: Helvetica;
 font-weight: bolder;;
 }
@@ -12,6 +15,7 @@ font-weight: bolder;;
 #process{
   text-align: center;
   font-weight: bold;
+  font-size:32px;
 
 }
 
