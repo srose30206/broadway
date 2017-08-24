@@ -18,6 +18,11 @@ font-weight: bolder;;
   font-size:32px;
 
 }
+#home h3{font-size:23px;}
+#about h3{font-size:23px;}
+#work h3{font-size:23px;}
+#team h3{font-size:23px;}
+#contact h3{font-size:23px;}
 
 #design{background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 background-repeat: no-repeat;
